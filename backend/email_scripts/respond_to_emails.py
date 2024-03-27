@@ -133,10 +133,10 @@ class MailResponderBot:
         
 
 if __name__ == "__main__":
-    new_api_key = "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"
+    new_api_key = ""
     new_mail_host = "smtp.gmail.com"
-    new_password = "wvnr jzhx jayv gvcv" # If you are using gmail, you need to generate an app password(2f authentication)
-    new_your_email = "yonytef@gmail.com"
+    new_password = "App Password" # If you are using gmail, you need to generate an app password(2f authentication)
+    new_your_email = ""
 
     new_api_role = "Email Responder"
 

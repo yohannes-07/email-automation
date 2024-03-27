@@ -144,9 +144,9 @@ class GmailAutomation:
         
 
 if __name__ == "__main__":
-    api_key = "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"
-    email = "yohannes.ahunm@aait.edu.et"
-    password = "Yony!!33!!"
+    api_key = ""
+    email = ""
+    password = "App Password"
     senderName = 'Yohannes'
 
     gmail_automation = GmailAutomation(api_key, email, password, senderName)

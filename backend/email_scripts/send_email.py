@@ -83,4 +83,4 @@ class EmailGenerator:
 #         subject = "No subject"
 #         body = email_content.strip()
 
-#     # email_generator.send_email('yonytef@gmail.com', 'targetemail@gmail.com', subject, body)
+#     # email_generator.send_email('sender@gmail.com', 'targetemail@gmail.com', subject, body)
